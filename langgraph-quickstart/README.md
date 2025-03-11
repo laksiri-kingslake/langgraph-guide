@@ -12,6 +12,10 @@ pip install ipython
 
 # to display images in wsl terminal apps
 sudo apt install wslu
+
+# to use ollama instead of anthropic
+pip install ollama
+pip install langchain_community
 ```
 
 ## Reference
