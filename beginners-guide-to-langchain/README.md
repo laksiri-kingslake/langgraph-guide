@@ -15,5 +15,5 @@ pip install -U dotenv
 - How to Use LangChain to Build With LLMs – A Beginner's Guide <br>
 https://www.freecodecamp.org/news/beginners-guide-to-langchain/ <br>
 
-- LangChain
-https://python.langchain.com/docs/introduction/
+- LangChain <br>
+https://python.langchain.com/docs/introduction/ <br>
