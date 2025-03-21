@@ -1,0 +1,9 @@
+{
+    // Set the Python interpreter to your venv
+  "python.defaultInterpreterPath": "./venv/bin/python",
+  
+  // Other useful settings (optional)
+  "python.linting.enabled": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "python.formatting.provider": "black"
+}
